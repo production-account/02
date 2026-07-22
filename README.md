@@ -1,2 +1,2 @@
 # 02 Trend Keyword
-# ・font Yeseva One
+・font：Yeseva One
